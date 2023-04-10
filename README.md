@@ -1,10 +1,13 @@
-### Hi there 👋
+### 🌱 crawl walk run fly
+![syg9272's GitHub stats](https://github-readme-stats.vercel.app/api?username=syg9272&show_icons=true&theme=radical)
+[![syg9272's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syg9272&exclude_repo=Akgop.github.io,Needs-web&layout=compact&theme=gruvbox&langs_count=8&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
+
+## :bulb: BOJ
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syg9272)](https://solved.ac/jatyu62)
 
 <!--
 **syg9272/syg9272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
