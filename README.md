@@ -1,4 +1,4 @@
-[![waving](https://capsule-render.vercel.app/api?type=waving&color=344765:344765,4F6188:4F6188&text=Seo%20YeJi&fontColor=BBC8CA&fontAlign=80&fontAlignY=30&fontSize=40&height=180&desc=Front-End%20Developer&descAlign=84&descAlignY=55&animation=fadeIn)](https://github.com/kyechan99/capsule-render)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20YeJi!&fontAlign=80&fontAlignY=40&color=gradient)
 # Hi there! 👋🏻
 
 <br />
@@ -20,7 +20,14 @@
 <br />
 <br />
 
-# STACKS 🛠️
+  <h3 align="center"> 🚀 Follow Me 🚀 </h3>
+    <p align="center">
+    <a href="https://yeahzzz.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=TVtime&logoColor=white"/></a>
+    <a href="https://few-sociology-01b.notion.site/b2a044fc008b4c16ad5b59945fdb76ce"><img src="https://img.shields.io/badge/about.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=black"/></a>
+    </p>
+    
+  
+<h3 align="center"> 🛠️ Tech Stack 🛠️ </h3> 
 <div>   
   <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -56,11 +63,7 @@
   </p>
   <br />
   
-  <h4 align="center"> My </h4>
-    <p align="center">
-    <a href="https://yeahzzz.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=TVtime&logoColor=white"/></a>
-    <a href="https://few-sociology-01b.notion.site/b2a044fc008b4c16ad5b59945fdb76ce"><img src="https://img.shields.io/badge/about.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=black"/></a>
-    </p>
+  
 </div>
 <br>
 
